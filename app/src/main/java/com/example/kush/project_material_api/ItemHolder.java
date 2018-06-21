@@ -19,5 +19,6 @@ public class ItemHolder extends RecyclerView.ViewHolder{
         txt_title = (TextView)root.findViewById(R.id.txt_title);
         txt_description = (TextView)root.findViewById(R.id.txt_description);
         txt_pubDate = (TextView) root.findViewById(R.id.txt_pubDate);
+
     }
 }
