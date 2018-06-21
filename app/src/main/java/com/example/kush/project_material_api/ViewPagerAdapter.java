@@ -1,12 +1,24 @@
 package com.example.kush.project_material_api;
 
+import android.app.Activity;
+import android.content.Context;
 import android.support.v4.view.PagerAdapter;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
  * Created by kush on 2018. 6. 21..
@@ -15,9 +27,18 @@ import android.widget.Toast;
 public class ViewPagerAdapter extends PagerAdapter {
     private LayoutInflater mInflater;
     EditText text;
+    NewsItems newsItems;
+    NewsRecyclerAdapter adapter;
+    RecyclerView recyclerView;
+    Context context;
+    String msg = "";
+    View view = null;
 
-    public ViewPagerAdapter(LayoutInflater inflater) {
+    TextView tv;
+
+    public ViewPagerAdapter(LayoutInflater inflater, Context context) {
         this.mInflater = inflater;
+        this.context = context;
     }
 
     @Override
@@ -32,25 +53,10 @@ public class ViewPagerAdapter extends PagerAdapter {
 
     @Override
     public Object instantiateItem(ViewGroup container, int position) {
+
 //        View view = mInflater.inflate(R.layout.fragment_page, null);
 //        container.addView(view);
-        View view = null;
-        switch(position){
-            case 0:
-                view = mInflater.inflate(R.layout.fragment_one, null);
-                container.addView(view);
-                Button btn = (Button)view.findViewById(R.id.searchBtn);
-                text = (EditText)view.findViewById(R.id.searchEdit);
-                btn.setOnClickListener(new View.OnClickListener(){
-
-                    @Override
-                    public void onClick(View view) {
-                        String key = text.getText().toString();
-
-//                        getNewsList(key);
-                    }
-                });
-                break;
+        switch (position) {
             case 1:
                 view = mInflater.inflate(R.layout.fragment_two, null);
                 container.addView(view);
@@ -59,20 +65,28 @@ public class ViewPagerAdapter extends PagerAdapter {
                 view = mInflater.inflate(R.layout.fragment_three, null);
                 container.addView(view);
                 break;
+
+            case 0:
+                view = mInflater.inflate(R.layout.fragment_one, null);
+                container.addView(view);
+
+                PutData_RecyclerView pr = new PutData_RecyclerView(view, context);
+                pr.putData();
+                break;
         }
         return view;
     }
 
     @Override
     public void destroyItem(ViewGroup container, int position, Object object) {
-        container.removeView((View)object);
+        container.removeView((View) object);
     }
 
     @Override
     public CharSequence getPageTitle(int position) {
 //        return "Fragment "+position;
         String msg = "";
-        switch(position){
+        switch (position) {
             case 0:
                 msg = "NEWS";
                 break;
@@ -86,6 +100,10 @@ public class ViewPagerAdapter extends PagerAdapter {
 
         return msg;
     }
+
+
+
+
 
 }
 

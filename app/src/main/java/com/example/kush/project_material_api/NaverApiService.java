@@ -15,10 +15,11 @@ public interface NaverApiService {
             "X-Naver-Client-id:l2QLPCtaiyI43yHTo_MU",
             "X-Naver-Client-Secret:sBxOqEEJEy"
     })
-    @GET("/v1/search/book.json")
-    Call<BookItems> getSearchItems(
-            @Query(value = "query", encoded = true) String query,
+    @GET("/v1/search/news.json")
+    Call<NewsItems> getSearchItems(
+            @Query(value = "query", encoded=true) String query,
             @Query(value = "display") String display,
-            @Query(value = "start") String start
+            @Query(value = "start") String start,
+            @Query(value = "sort") String sort
     );
 }

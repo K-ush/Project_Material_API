@@ -1,0 +1,88 @@
+{
+"lastBuildDate": "Fri, 22 Jun 2018 00:13:14 +0900",
+"total": 105531,
+"start": 1,
+"display": 10,
+"items": [
+{
+"title": "<b>우주소녀</b>(WJSN) 성소, 반짝이는 근황 전해...'대륙의 기적'",
+"originallink": "http://www.topstarnews.net/news/articleView.html?idxno=432987",
+"link": "http://www.topstarnews.net/news/articleView.html?idxno=432987",
+"description": "<b>우주소녀</b>(WJSN) 인스타그램 [톱스타뉴스=김희주 기자] <b>우주소녀</b>(WJSN) 인스타그램 <b>우주소녀</b>(WJSN) 성소가 근황을 전했다. 최근 <b>우주소녀</b> 공식 인스타그램에 &quot;#<b>우주소녀</b> #성소 의 광고 촬영 비하인드를 #우정 들에게... ",
+"pubDate": "Thu, 21 Jun 2018 23:06:00 +0900"
+
+},
+{
+"title": "[책꽂이] 창직이 답이다 등",
+"originallink": "http://news.hankyung.com/article/2018062113061",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=015&aid=0003965498",
+"description": "안드로메다은하, 산개성단, 장미성운 등 저자가 직접 찍은 사진과 <b>우주</b>의 이야기를 재미있게 즐길 수 있다. (전영범 지음, 에코리브르, 320쪽, 1만9500원) 아동·청소년 ●이대열 선생님이 들려주는 뇌과학과 인공지능... ",
+"pubDate": "Thu, 21 Jun 2018 18:41:00 +0900"
+
+},
+{
+"title": "포항시 오는 30일 '젊음의 거리'서 '쌍사 Party' 개최",
+"originallink": "http://www.nocutnews.co.kr/news/4988984",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003115102",
+"description": "메인 MC는 포항시 홍보대사인 개그맨 김원효씨가 맡고 '스컬＆하하', <b>우주소녀</b>, 엠타이슨, 지조 등이 출연한다. 포항시는 행사 준비를 위해 30일 오전 6시부터 다음날 오전 3시까지 21시간 동안 주변 주요도로의... ",
+"pubDate": "Thu, 21 Jun 2018 17:35:00 +0900"
+
+},
+{
+"title": "걸그룹 '스마일' 데뷔 임박, 걸크러쉬 언니들 앞에서 최초 공개...&quot;태리 언니...",
+"originallink": "http://www.newstown.co.kr/news/articleView.html?idxno=329846",
+"link": "http://www.newstown.co.kr/news/articleView.html?idxno=329846",
+"description": "그 사이 6개월 동안 '스마일' 팀은 6명의 <b>소녀</b>들에서 4명의 <b>소녀</b>들로 멤버가 변동되었으며, 타임머신을 타고... '<b>우주</b>대스타'로 불리는 막내 '보미' 역시 '태리'를 도와 '스마일'의 안무, 패션, 뷰티, 이성고민 등 조언을... ",
+"pubDate": "Thu, 21 Jun 2018 15:28:00 +0900"
+
+},
+{
+"title": "포항시, 젊음의 거리 Boom up 페스티벌 '쌍사 Party' 연다",
+"originallink": "http://www.gukjenews.com/news/articleView.html?idxno=945144",
+"link": "http://www.gukjenews.com/news/articleView.html?idxno=945144",
+"description": "맡고 '스컬&amp;하하', <b>우주소녀</b>, 엠타이슨, 지조 등이 출연한다. 특히, 이번행사와 관련하여 30일 토요일 06시부터 7월 1일 03시까지 21시간 동안 젊음의 거리(파리바게트 사거리~상대동 행정복지센터 490m)주요도로의 차량... ",
+"pubDate": "Thu, 21 Jun 2018 11:24:00 +0900"
+
+},
+{
+"title": "포항시, &quot;Pohang is a dream – 포항은 꿈이다&quot; 공연 개최",
+"originallink": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=239101",
+"link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=239101",
+"description": "맡고 '스컬&amp;하하', <b>우주소녀</b>, 엠타이슨, 지조 등이 출연한다. 특히, 이번행사와 관련해 30일 토요일 06시부터 7월 1일 03시까지 21시간 동안 젊음의 거리(파리바게트 사거리~상대동 행정복지센터 490m)... ",
+"pubDate": "Thu, 21 Jun 2018 10:04:00 +0900"
+
+},
+{
+"title": "포항시 젊음의 거리 Boom up 페스티벌“쌍사 Party”연다",
+"originallink": "http://www.breaknews.com/sub_read.html?uid=585401&section=sc2",
+"link": "http://www.breaknews.com/sub_read.html?uid=585401&section=sc2",
+"description": "‘스컬&amp;하하’, <b>우주소녀</b>, 엠타이슨, 지조 등이 출연한다. 특히, 이번행사와 관련하여 30일 토요일 06시부터 7월 1일 03시까지 21시간 동안 젊음의 거리(파리바게트 사거리~상대동 행정복지센터 490m)주요도로의 차량... ",
+"pubDate": "Thu, 21 Jun 2018 09:10:00 +0900"
+
+},
+{
+"title": "[김정혁-금융보안 칼럼⑨] AI Emotional Security: 인공지능 시대, 지능형 블...",
+"originallink": "http://www.dailysecu.com/?mod=news&act=articleView&idxno=35608",
+"link": "http://www.dailysecu.com/?mod=news&act=articleView&idxno=35608",
+"description": "부모로부터 버림받은 아이, 학대와 굶주림을 피해 탈출한 <b>소녀</b>, 수년만에 주검으로 돌아온 초등학생... 알파고의 극도로 냉정한 모습과 신의 한수 전략에 <b>우주</b>최강 전사들은 추풍낙엽처럼 힘없이 떨어져 나갔다. 인간의... ",
+"pubDate": "Thu, 21 Jun 2018 09:04:00 +0900"
+
+},
+{
+"title": "[단독] 카카오, 대형엔터사들 품는다",
+"originallink": "http://sports.donga.com/3/all/20180620/90678741/3",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=382&aid=0000654977",
+"description": "이들 기획사에는 아이유 에이핑크 허각 소유 몬스타엑스 <b>우주소녀</b> 빅톤 더보이즈 등 인기가수들이 소속돼 있다. 현재 추진하는 배우 중심의 엔터테인먼트사 인수가 어떤 식으로 결론 날지 아직 확정되지 않았지만, 만약... ",
+"pubDate": "Thu, 21 Jun 2018 06:57:00 +0900"
+
+},
+{
+"title": "다이아(DIA) 기희현, 청하X유연정과 다정한 한때…'훈훈한 프듀'",
+"originallink": "http://www.topstarnews.net/news/articleView.html?idxno=432343",
+"link": "http://www.topstarnews.net/news/articleView.html?idxno=432343",
+"description": "공개된 영상 속에는 기희현과 청하 그리고 <b>우주소녀</b> 유연정이 담겼다. 카메라를 응시한 채 즐거운 듯 춤을 추는 세 사람의 모습이 웃음을 자아낸다. 이를 본 네티즌들은 &quot;프듀 친목은 사랑이죠&quot;, &quot;아 프듀... ",
+"pubDate": "Thu, 21 Jun 2018 02:40:00 +0900"
+
+}
+]
+}

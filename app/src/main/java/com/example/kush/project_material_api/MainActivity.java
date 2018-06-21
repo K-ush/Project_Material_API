@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -84,10 +85,12 @@ public class MainActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toast.makeText(this, "context : " + getApplicationContext(), Toast.LENGTH_SHORT).show();
+
         TabLayout tabLayout = (TabLayout)findViewById(R.id.tabs);
         ViewPager viewPager = (ViewPager)findViewById(R.id.viewpager);
 
-        ViewPagerAdapter adapter = new ViewPagerAdapter(getLayoutInflater());
+        ViewPagerAdapter adapter = new ViewPagerAdapter(getLayoutInflater(), getApplicationContext());
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);
     }
